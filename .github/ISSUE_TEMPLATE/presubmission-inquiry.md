@@ -31,13 +31,13 @@ Repository Link (if existing):
 	- [ ] Education
 	- [ ] Unsure/Other (explain below)
         
-- Explain how the and why the package falls under these categories (briefly, 1-2 sentences).  Please note any areas you are unsure of:
+- Explain how and why the package falls under these categories (briefly, 1-2 sentences). Please note any areas you are unsure of:
 
--   Who is the target audience and what are scientific applications of this package?  
+- Who is the target audience and what are the scientific applications of this package?  
 
--   Are there other Python packages that accomplish the same thing? If so, how does yours differ?
+- Are there other Python packages that accomplish similar things? If so, how does yours differ?
 
--  Any other questions or issues we should be aware of?:
+- Any other questions or issues we should be aware of:
 
 
 
